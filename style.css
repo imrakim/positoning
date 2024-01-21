@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    background-color: #eee;
+    padding: 10px;
+}
+.header h1{
+    display: block;
+    font-weight: bold;
+    font-size: 35px;
+    color: #79B30B;
+}
+.header a{
+    display: block;
+    position: absolute;
+    right: 0;
+    top: 20px; 
+    padding-right: 10px;
+    text-decoration: none;
+}
+.content1{    
+    float: left;
+    width: 25%;
+    margin-left: -100%;
+    display:block
+}
+.content1 p{
+
+}
